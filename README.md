@@ -1,113 +1,24 @@
-# 🌸 About Me
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-```yaml
-Name: Aqsa Sarfaraz
-Role: Full Stack Developer (in Progress)
-Location: Pakistan 🇵🇰
-Pronouns: She/Her
-```
 
-💖 Passionate about creating beautiful, responsive, and user-friendly web experiences.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aqsakhan0909&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aqsakhan0909&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aqsakhan0909&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🌱 Currently diving deeper into **React, Next.js, TypeScript, and AI Development**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aqsakhan0909&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-👯 Open to collaborating on **Open Source, Web Development, and Creative Coding Projects**.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🤝 Always happy to connect with developers, designers, and tech enthusiasts.
-
-💬 Ask me about **HTML, CSS, JavaScript, Python, Git, or anything web-related.**
-
-⚡ **Fun Fact:** I spend more time perfecting my UI than fixing the backend... and I'm not sorry. 🌸
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp"/>
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
-
-### Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux"/>
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aqsakhan0909&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=aqsakhan0909&icon=6&color=2)](https://visitcount.itsvg.in)
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# ✍️ Developer Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-🌸 Coming soon...
-
-✨ Stay tuned for exciting projects in Full Stack Development, AI, and beautiful UI/UX experiences.
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build impactful full-stack applications
-- 🤖 Learn AI & Machine Learning
-- 🌍 Contribute to Open Source
-- 📱 Master React & Next.js
-- 💼 Land exciting developer opportunities
-
----
-
-<div align="center">
-
-### ✨ *"Code with logic. Design with heart."* 💖
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
