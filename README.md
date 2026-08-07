@@ -64,17 +64,17 @@ Current Focus:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aqsakhan0909&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=aqsakhan0909&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsakhan0909&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="53%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+<img width="53%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqsakhan0909&theme=tokyonight"/>
 
 </div>
 
@@ -84,7 +84,7 @@ Current Focus:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aqsakhan0909&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -124,7 +124,7 @@ Current Focus:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/aqsakhan0909">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
