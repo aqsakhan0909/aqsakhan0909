@@ -1,63 +1,150 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Aqsa%20Khan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Front%20end%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<div align="center">
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=aqsakhan0909">
-    <img src="https://komarev.com/ghpvc/?username=aqsakhan0909&label=Profile%20views&color=00FFFF&style=flat-square" alt="aqsakhan0909's profile views" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24&text=Aqsa%20Sarfaraz&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=58&animation=fadeIn&desc=Full-Stack%20Developer%20✿%20Creative%20Coder%20✿%20UI%20Enthusiast&descAlignY=60"/>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/aqsakhan0909">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aqsakhan0909&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="aqsakhan0909's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=aqsakhan0909&theme=radical&hide_border=true&cache_seconds=86400" alt="aqsakhan0909's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=aqsakhan0909&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aqsa Khan's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aqsakhan0909&theme=radical&radius=10" alt="aqsakhan0909's Activity Graph" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=F4A6C0&lines=🌸+Building+beautiful+web+experiences;💻+Code+with+logic,+design+with+heart;✨+Always+learning,+always+creating;🤍+Welcome+to+my+little+coding+garden"/>
 
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge&color=ffb6c1"/>
 
-## 🛠️ Languages & Tools
+</div>
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+---
 
-</p>
+<div align="center">
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+# 🌷 ୨୧ A Little About Me
 
-</p>
+</div>
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+```yaml
+Name: Aqsa Sarfaraz
+Role: Full Stack Developer
+Location: Pakistan 🇵🇰
+Pronouns: She/Her
 
-</p>
+Currently Learning:
+  - React
+  - Next.js
+  - TypeScript
+  - AI Engineering
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+Interests:
+  - UI/UX Design
+  - Full Stack Development
+  - Open Source
+  - Beautiful Interfaces
+```
 
-</p>
+🌸 I love building elegant, responsive websites.
 
-<p align="center">
-  <a href="https://github.com/aqsakhan0909">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aqsakhan0909&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+💖 I enjoy turning ideas into polished digital experiences.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+🌱 Currently exploring modern web technologies and AI.
 
+☕ Powered by coffee, playlists, and curiosity.
+
+---
+
+<div align="center">
+
+# 💖 ୨୧ Tech Garden
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mongodb,mysql,git,github,vscode,figma&perline=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 ୨୧ GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 ୨୧ Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-bg=true&no-frame=true&column=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌸 ୨୧ Contribution Garden
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 ୨୧ Snake Animation
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌼 ୨୧ Featured Projects
+
+⭐ Coming Soon...
+
+I'm currently building projects focused on:
+
+🌷 Full Stack Development
+
+🌸 Beautiful UI/UX
+
+🤖 AI Applications
+
+🚀 Open Source
+
+</div>
+
+---
+
+<div align="center">
+
+# 💌 ୨୧ Let's Connect
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌷 "Code with logic. Design with heart."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24"/>
+
+</div>
