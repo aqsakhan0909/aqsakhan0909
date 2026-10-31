@@ -98,7 +98,8 @@ Interests:
 
 <div align="center">
 
-<img src="./certificates/cisco-build-resume-with-ai.jpeg" width="85%" alt="Cisco Networking Academy - Build Your Resume with AI Certificate"/>
+<img width="1062" height="687" alt="certificate " src="https://github.com/user-attachments/assets/e7102952-affb-4787-8c68-60f9fd7486ef" />
+
 
 *Successfully completed on 26 October 2026.*
 
